@@ -1,0 +1,35 @@
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.unityproj
+*.user
+*.userprefs
+.DS_Store
+/Library/assetDatabase3
+/Library/AssetImportState
+/Library/AssetServerCacheV3
+/Library/AssetVersioning.db
+/Library/AudioManager.asset
+/Library/BuildPlayer.prefs
+/Library/BuildSettings.asset
+/Library/cache/
+/Library/CurrentLayout.dwlt
+/Library/CurrentMaximizeLayout.dwlt
+/Library/DynamicsManager.asset
+/Library/EditorSettings.asset
+/Library/EditorUserBuildSettings.asset
+/Library/expandedItems
+/Library/FailedAssetImports.txt
+/Library/guidmapper
+/Library/InspectorExpandedItems.asset
+/Library/metadata/
+/Library/MonoManager.asset
+/Library/NetworkManager.asset
+/Library/previews/
+/Library/ScriptAssemblies/
+/Library/ScriptMapper
+/Library/unity default resources
+/Library/unity editor resources
+/obj
+/Temp
